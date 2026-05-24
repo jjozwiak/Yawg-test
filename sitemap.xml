@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://jasonjozwiak.com/</loc>
+    <lastmod>2026-05-16T14:49:13Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jasonjozwiak.com/another-page</loc>
+    <lastmod>2026-05-23T14:55:55Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jasonjozwiak.com/yet-another-page</loc>
+    <lastmod>2026-05-23T23:22:13Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jasonjozwiak.com/blog</loc>
+    <lastmod>2026-05-23T16:56:55Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jasonjozwiak.com/blog/what-i-did-on-vacation</loc>
+    <lastmod>2026-05-23T16:56:43Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jasonjozwiak.com/blog/a-2nd-post</loc>
+    <lastmod>2026-05-23T16:56:55Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jasonjozwiak.com/blog/hello-world</loc>
+    <lastmod>2026-05-16T13:49:12Z</lastmod>
+  </url>
+</urlset>
