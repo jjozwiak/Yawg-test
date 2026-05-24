@@ -1,9 +1,9 @@
-body { margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #111111; background: #fafafa; line-height: 1.6; }
-.site-header { padding: 2.5rem 1.5rem 1.5rem; background: #fafafa; }
-.site-nav { display: flex; gap: 2rem; align-items: baseline; max-width: 720px; margin: 0 auto; }
-.site-nav-links { display: flex; gap: 1.75rem; align-items: baseline; margin-left: auto; }
-.site-brand { font-weight: 400; text-decoration: none; color: #111111; font-size: 1.25rem; letter-spacing: -0.01em; }
-.site-nav-link { text-decoration: none; color: #6b6b6b; font-size: 0.95rem; }
-.site-nav-link:hover, .site-brand:hover { color: #111111; }
-.router-link-active.site-nav-link { color: #111111; }
-main, .blog-list, .post, .page { max-width: 720px !important; }
+body { margin: 0; font-family: Georgia, 'Times New Roman', serif; color: #2a2520; background: #fbf8f3; line-height: 1.7; }
+.site-header { border-bottom: 2px solid #d4a574; padding: 1.5rem; background: #fbf8f3; }
+.site-nav { display: flex; gap: 1.5rem; align-items: baseline; max-width: 840px; margin: 0 auto; }
+.site-nav-links { display: flex; gap: 1.5rem; align-items: baseline; margin-left: auto; }
+.site-brand { font-weight: 700; text-decoration: none; color: #2a2520; font-size: 1.5rem; font-style: italic; }
+.site-nav-link { text-decoration: none; color: #5c534a; font-variant: small-caps; letter-spacing: 0.05em; font-size: 0.9rem; }
+.site-nav-link:hover, .site-brand:hover { color: #a06a2a; }
+.router-link-active.site-nav-link { color: #a06a2a; }
+h1, h2, h3 { font-family: Georgia, serif; color: #1a1612; }
