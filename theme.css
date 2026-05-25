@@ -1,8 +1,9 @@
-body { margin: 0; font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif; color: #111827; background: #ffffff; }
-.site-header { border-bottom: 1px solid #e5e7eb; padding: 1rem 1.5rem; background: #ffffff; }
-.site-nav { display: flex; gap: 1.5rem; align-items: center; max-width: 960px; margin: 0 auto; }
-.site-nav-links { display: flex; gap: 1.25rem; align-items: center; margin-left: auto; }
-.site-brand { font-weight: 600; text-decoration: none; color: #111827; font-size: 1.05rem; }
-.site-nav-link { text-decoration: none; color: #4b5563; }
-.site-nav-link:hover, .site-brand:hover { color: #2563eb; }
-.router-link-active.site-nav-link { color: #111827; font-weight: 500; }
+body { margin: 0; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #111111; background: #fafafa; line-height: 1.6; }
+.site-header { padding: 2.5rem 1.5rem 1.5rem; background: #fafafa; }
+.site-nav { display: flex; gap: 2rem; align-items: baseline; max-width: 720px; margin: 0 auto; }
+.site-nav-links { display: flex; gap: 1.75rem; align-items: baseline; margin-left: auto; }
+.site-brand { font-weight: 400; text-decoration: none; color: #111111; font-size: 1.25rem; letter-spacing: -0.01em; }
+.site-nav-link { text-decoration: none; color: #6b6b6b; font-size: 0.95rem; }
+.site-nav-link:hover, .site-brand:hover { color: #111111; }
+.router-link-active.site-nav-link { color: #111111; }
+main, .blog-list, .post, .page { max-width: 720px !important; }
