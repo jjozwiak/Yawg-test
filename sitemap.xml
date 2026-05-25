@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jasonjozwiak.com/</loc>
+    <lastmod>2026-05-24T19:36:27Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jasonjozwiak.com/home</loc>
     <lastmod>2026-05-24T19:36:29Z</lastmod>
   </url>
   <url>
     <loc>https://jasonjozwiak.com/another-page</loc>
     <lastmod>2026-05-24T19:37:47Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jasonjozwiak.com/yet-another-page</loc>
-    <lastmod>2026-05-24T19:36:27Z</lastmod>
   </url>
   <url>
     <loc>https://jasonjozwiak.com/blog</loc>
