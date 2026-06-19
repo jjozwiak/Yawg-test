@@ -12,11 +12,11 @@ body { margin: 0; font-family: system-ui, -apple-system, BlinkMacSystemFont, san
 .site-footer p { margin: 0.25rem 0; }
 
 /* ── Custom CSS overrides ── */
-h1 {
+/* h1 {
   color: violet;
   font-size: 40px;
 }
 
 p {
   color: red;
-}
+} */
