@@ -1,3 +1,22 @@
+body { margin: 0; font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif; color: #111827; background: #ffffff; }
+.site-header { border-bottom: 1px solid #e5e7eb; padding: 1rem 1.5rem; background: #ffffff; }
+.site-nav { display: flex; gap: 1.5rem; align-items: center; max-width: 960px; margin: 0 auto; }
+.site-nav-links { display: flex; gap: 1.25rem; align-items: center; margin-left: auto; }
+.site-brand { font-weight: 600; text-decoration: none; color: #111827; font-size: 1.05rem; }
+.site-nav-link { text-decoration: none; color: #4b5563; }
+.site-nav-link:hover, .site-brand:hover { color: #2563eb; }
+.router-link-active.site-nav-link { color: #111827; font-weight: 500; }
+.site-footer { border-top: 1px solid #e5e7eb; padding: 2rem 1.5rem; margin-top: 3rem; text-align: center; color: #6b7280; font-size: 0.875rem; }
+.site-footer a { color: #2563eb; text-decoration: none; }
+.site-footer a:hover { text-decoration: underline; }
+.site-footer p { margin: 0.25rem 0; }
+
+/* ── Custom CSS overrides ── */
 h1 {
-color: red;
+  color: violet;
+  font-size: 40px;
+}
+
+p {
+  color: red;
 }
