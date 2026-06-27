@@ -6,11 +6,11 @@
   </url>
   <url>
     <loc>https://jasonjozwiak.com/blog</loc>
-    <lastmod>2026-06-27T15:51:47Z</lastmod>
+    <lastmod>2026-06-27T16:02:37Z</lastmod>
   </url>
   <url>
     <loc>https://jasonjozwiak.com/blog/aws-cloud-formation-part-2</loc>
-    <lastmod>2026-06-27T15:51:47Z</lastmod>
+    <lastmod>2026-06-27T16:02:37Z</lastmod>
   </url>
   <url>
     <loc>https://jasonjozwiak.com/blog/aws-cloud-formation-part-1</loc>
@@ -27,5 +27,9 @@
   <url>
     <loc>https://jasonjozwiak.com/blog/hello-world</loc>
     <lastmod>2026-05-25T13:03:26Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jasonjozwiak.com/media/yawg.jpg</loc>
+    <lastmod>2026-06-27T16:02:34Z</lastmod>
   </url>
 </urlset>
